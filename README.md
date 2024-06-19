@@ -77,4 +77,24 @@ This is a website of a Dreadlocks saloon called I-Three.
 
     ### Colour Scheme
 
-    ![Milestone01 Colour Pallete](assets/img/MileS.png)
+    ![Milestone01 Colour Pallete](docs/Colour-Scheme
+    .png)
+
+    I opted for a clean modern colour pallete where each colour compliments one another. The colour pallete was created using the [coolers](https://coolors.co/) website.
+
+    ### Typography
+
+    Google Fonts was used for the following fonts:
+
+    -Roboto is used across the site for all text on the site. It is a sans-serif font.
+
+    ![Roboto Google Fonts](docs/roboto-text.png)
+
+    ### Imagery
+
+    All images on the webpage were taken from unsplash.com. I have credited these in the [credits] section.
+
+    ### Wireframes
+
+    ### Home Page
+    
