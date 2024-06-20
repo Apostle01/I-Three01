@@ -124,7 +124,7 @@ This is a website of a Dreadlocks saloon called I-Three.
 Text showing users what to expect from I-Three Dreadlocks Salon on the gallery page.
 A grid gallery showcasing I-Three's completed work. This will give confidence to the user in the companies ability.
 
-<img src="assets/img/statinglocks.JPG" alt="A woman starting her dreadlocks">
+
 <img src="assets/img/African_Pride.jpg" alt="An African queen with Pride">
 <img src="assets/img/ladylocks.JPG" alt="A woman with thin grey locks">
 <img src="assets/img/clean_shave.jpg" alt="A clean-shaven gentle locks">
