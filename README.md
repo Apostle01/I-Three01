@@ -1,3 +1,5 @@
+https://github.com/Apostle01/I-Three.git: This is a previous work that has a lot of commits but had to create a new repository (Milestone01) due to technical issues.
+
 # Milestone01
 
 My Milestone 1 Project
