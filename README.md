@@ -13,6 +13,7 @@ This is a website of a Dreadlocks saloon called I-Three.
 
  ![Github last commit(by committer)](html file for clarity on what we offer
 )
+![Github last commit(by committer)](updated README.md file with previous repository to show other commits, current repository and website url)
 
 ## CONTENTS
 
