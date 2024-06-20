@@ -88,7 +88,6 @@ This is a website of a Dreadlocks saloon called I-Three.
 
     -Roboto is used across the site for all text on the site. It is a sans-serif font.
 
-    ![Roboto Google Fonts](docs/roboto-text.png)
 
     ### Imagery
 
@@ -178,15 +177,108 @@ Testing was continuous throughout the website build. I used Chrome developer too
 
 W3C validator was used to validate the HTML on all pages of the website. It was also used to validate CSS in the style.css file.
 
-One issue I was coming across when testing my html page was an error displayed by w3. Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.' However, even after removing these trailing slashes when saving my document Visual Studio Code would re-enter them. Luckily as w3 states these have no effect on the code.
+One issue I was coming across when testing my html page was an error displayed by w3. Trailing slash on void elements has no effect and interacts badly with unquoted attribute values.
 
-- [Index Page HTML](assets/img/html Validator.png)
-- [Packages Page HTML](docs/w3-packages.html.png)
-- [Gallery Page HTML](docs/w3-gallery.html.png)
-- [404 Page HTML](docs/w3-404.html.png)
-- [style.css CSS](docs/w3-style.css.png)
+- [index.html](assets/img/html-Validator.png)
+- [style.css CSS](assets/img/CSS-Validator.png)
 
-### Testing
-![]
+
+-[Jest](assets/img/Jest-test.jpg)
+-[Jest Test](assets/img/Jest-testing.png)
+
+### Wave Testing
+- [Index Page HTML](assets/img/Wavetest.png)
+- [Packages Page HTML](assets/img/Wavetest1.png)
+- [Gallery Page HTML](assets/img/Wavetest2.png)
+
+### Full Testing
+
+Full testing was performed on the following devices:
+
+- Laptop:
+
+  - Lenovo Laptop
+
+- Mobile Devices:
+  - iPhone 12 pro.
+  - iPhone 11 pro.
+  - Phone X.
+
+Each device tested the site using the following browsers:
+
+- Google Chrome
+- Safari
+
+#### Home Page
+
+| Feature            | Expected Outcome                                                 | Testing Performed                  | Result                                      | Pass/Fail |
+| ------------------ | ---------------------------------------------------------------- | ---------------------------------- | ------------------------------------------- | --------- |
+| The sites logo     | Link directs the user back to the home page                      | Clicked title                      | Home page reloads                           | Pass      |
+| Packages link      | Link directs user to Packages page                               | Clicked link                       | Packages page loads                         | Pass      |
+| Gallery link       | Link directs user to Gallery page                                | Clicked link                       | Gallery page loads                          | Pass      |
+| Links hover effect | All nav bar links highlight yellow when hovered over             | Hover over each button on the page | Each button turned yellow when hovered over | Pass      |
+| Social links       | The corresponding social website opens on a new tab when clicked | Clicked social links               | Social website opens in new tab             | Pass      |
+| Book Now Link      | Opens up booking modal                                           | Clicked link                       | Booking modal opens                         | Pass      |
+
+#### Packages Page
+
+| Feature                      | Expected Outcome                                                 | Testing Performed                  | Result                                      | Pass/Fail |
+| ---------------------------- | ---------------------------------------------------------------- | ---------------------------------- | ------------------------------------------- | --------- |
+| The sites logo               | Link directs the user back to the home page                      | Clicked title                      | Home page reloads                           | Pass      |
+| Packages link                | Link directs user to Packages page                               | Clicked link                       | Packages page loads                         | Pass      |
+| Gallery link                 | Link directs user to Gallery page                                | Clicked link                       | Gallery page loads                          | Pass      |
+| Links hover effect           | All nav bar links highlight yellow when hovered over             | Hover over each button on the page | Each button turned yellow when hovered over | Pass      |
+| Social links                 | The corresponding social website opens on a new tab when clicked | Clicked social links               | Social website opens in new tab             | Pass      |
+| Book Now link                | Opens up booking modal                                           | Clicked link                       | Booking modal opens                         | Pass      |
+| Book Now link under packages | Opens up booking modal                                           | Clicked link                       | Booking modal opens                         | Pass      |
+
+#### Gallery Page
+
+| Feature            | Expected Outcome                                                 | Testing Performed                  | Result                                      | Pass/Fail |
+| ------------------ | ---------------------------------------------------------------- | ---------------------------------- | ------------------------------------------- | --------- |
+| The sites logo     | Link directs the user back to the home page                      | Clicked title                      | Home page reloads                           | Pass      |
+| Packages link      | Link directs user to Packages page                               | Clicked link                       | Packages page loads                         | Pass      |
+| Gallery link       | Link directs user to Gallery page                                | Clicked link                       | Gallery page loads                          | Pass      |
+| Links hover effect | All nav bar links highlight yellow when hovered over             | Hover over each button on the page | Each button turned yellow when hovered over | Pass      |
+| Social links       | The corresponding social website opens on a new tab when clicked | Clicked social links               | Social website opens in new tab             | Pass      |
+| Book Now Link      | Opens up booking modal                                           | Clicked link                       | Booking modal opens                         | Pass      |
+
+#### 404 Page
+
+| Feature            | Expected Outcome                                                 | Testing Performed                  | Result                                      | Pass/Fail |
+| ------------------ | ---------------------------------------------------------------- | ---------------------------------- | ------------------------------------------- | --------- |
+| The sites logo     | Link directs the user back to the home page                      | Clicked title                      | Home page reloads                           | Pass      |
+| Packages link      | Link directs user to Packages page                               | Clicked link                       | Packages page loads                         | Pass      |
+| Gallery link       | Link directs user to Gallery page                                | Clicked link                       | Gallery page loads                          | Pass      |
+| Links hover effect | All nav bar links highlight yellow when hovered over             | Hover over each button on the page | Each button turned yellow when hovered over | Pass      |
+| Social links       | The corresponding social website opens on a new tab when clicked | Clicked social links               | Social website opens in new tab             | Pass      |
+| Book Now link      | Opens up booking modal                                           | Clicked link                       | Booking modal opens                         | Pass      |
+
+#### Booking Modal
+
+| Feature      | Expected Outcome         | Testing Performed | Result                   | Pass/Fail |
+| ------------ | ------------------------ | ----------------- | ------------------------ | --------- |
+| Book Button  | Opens confirmation modal | Clicked button    | Confirmation modal opens | Pass      |
+| Close Button | Closes modal             | Clicked button    | Modal closes             | Pass      |
+
+## Credits
+
+### Code Used
+
+I've used code and classes courtesy of Bootstrap, this can be seen throughout my code with comments.
+
+W3 Schools for the favicon and learning how to manipulate a modal using JavaScript.
+
+### Media
+
+All my media was taken from [Unsplash](https://unsplash.com/).
+
+### Acknowledgments
+
+- My mentor for their guidance and support.
+- My cohort for support.
+- Code Institute for informative course material.
+- The Slack community for help and support.
+
 
     
