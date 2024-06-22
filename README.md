@@ -94,8 +94,11 @@ This is a website of a Dreadlocks saloon called I-Three.
     All images on the webpage were taken from unsplash.com. I have credited these in the [credits] section.
 
     ### Wireframes
+    -[Mobile](docs/wireframe.jpg)
+    -[Desktop](docs/wireframe1.jpg)
 
     ### Home Page
+    -[Screenshot of Home page](docs/Screenshot2024-06-22-061618.png)
 
     ##Features
     The website consists of three pages and a modal. Home, Packages, Gallery and Booking modal.
@@ -129,6 +132,9 @@ A grid gallery showcasing I-Three's completed work. This will give confidence to
 <img src="assets/img/ladylocks.JPG" alt="A woman with thin grey locks">
 <img src="assets/img/clean_shave.jpg" alt="A clean-shaven gentle locks">
 <img src="assets/img/colored_locks.jpg" alt="A lady with long colored locks">
+
+I included a video of retwisting dreadlocks taken from you-tube. 
+<iframe width="338" height="602" src="https://www.youtube.com/embed/hnn5DJqowX4" title="Retwist Tips for starter locs"  allowfullscreen></iframe>
 
 ## Deployment and Local Development
 
@@ -172,6 +178,9 @@ Testing was continuous throughout the website build. I used Chrome developer too
 - My mentor also pointed out that the images within the website were .png format which hindered the performance of the website. To combat this some images have been converted to .jpg format to significantly improve performance.
 
 - On the Packages page. the list items were out of alignment and not centered even after using the bootstrap text-center class. This was due to padding, which has now been removed to center the list of items.
+
+### Manual and Automated Testing
+- Both automated and manual testing have their place in the software development lifecycle. Automated testing is best for repetitive, time-consuming tasks and ensures a high level of accuracy and efficiency. In contrast, manual testing is crucial for understanding the user experience, performing exploratory testing, and adapting to new, unforeseen test scenarios. By leveraging both types of testing, teams can ensure comprehensive test coverage, higher quality software, and a better user experience.
 
 ### W3C Validator
 
