@@ -1,3 +1,6 @@
+https://github.com/Apostle01/I-Three.git: This is a previous work that has a lot of commits but had to create a new repository (Milestone01) due to technical issues.
+https://github.com/Apostle01/Milestone01.git
+https://apostle01.github.io/Milestone01/
 # Milestone01
 
 My Milestone 1 Project
@@ -10,6 +13,7 @@ This is a website of a Dreadlocks saloon called I-Three.
 
  ![Github last commit(by committer)](html file for clarity on what we offer
 )
+![Github last commit(by committer)](updated README.md file with previous repository to show other commits, current repository and website url)
 
 ## CONTENTS
 
