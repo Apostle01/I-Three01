@@ -1,11 +1,12 @@
 https://github.com/Apostle01/I-Three.git: This is a previous work that has a lot of commits but had to create a new repository (Milestone01) due to technical issues.
 https://github.com/Apostle01/Milestone01.git
 https://apostle01.github.io/Milestone01/
-# Milestone01
+Milestone01
+My Milestone 1 Project.
+This is a website for a Dreadlocks salon called I-Three.
+We specialize in dreadlocks and natural hair care. Visitors have the opportunity to book appointments online.
 
-My Milestone 1 Project
-This is a website of a Dreadlocks saloon called I-Three. 
- We specialise in dreadlocks and natural hair care. Visitor have the opportunity to book.
+View Milestone01 on GitHub Pages
 
  ![Milestone01. Screenshots of website](assets/img/am-i-responsive.png)
 
@@ -14,6 +15,195 @@ This is a website of a Dreadlocks saloon called I-Three.
  ![Github last commit(by committer)](html file for clarity on what we offer)
 
 ![Github last commit(by committer)](updated README.md file with previous repository to show other commits, current repository and website url)
+
+## CONTENTS
+
+- [User Experience (UX)](#user-experience-ux)
+    - [User Stories](#user-stories)
+
+- [Design](#design)
+    - [Colour Scheme](#colour-scheme)
+    - [Typography](#typography)
+    - [Imagery](#imagery)
+    - [Wireframes](#wireframes)
+    - [Features](#features)
+    - [Accessibility](#accessibility)
+
+- [Technology Used](#technology-used)
+    - [Languages Used](#languages-used)
+    - [Frameworks, Libraries & Programs Used](#frameworks-libraries-and-programs-used)
+
+- [Deployment and Local Development](#deployment-and-local-development)
+    - [Deployment](#deployment)
+    - [Local Development](#local-development)
+        - [How to Fork](#how-to-fork)
+        - [How to Clone](#how-to-clone)
+
+- [Testing](#testing)
+    - [W3C Validator](#w3c-validator)
+    - [Solved Bugs](#solved-bugs)
+    - [Wave Testing](#wave-testing)
+    - [Full Testing](#full-testing)
+
+- [Credits](#credits)
+    - [Code Used](#code-used)
+    - [Media](#media)
+    - [Acknowledgments](#acknowledgments)
+
+---
+
+## User Experience (UX)
+
+Milestone01 is a dreadlock salon website with the aim of enhancing beauty through dreadlock styling.
+
+### User Stories
+
+#### Client Goals
+
+- To be able to view the site on different devices.
+- To make it easier for potential customers to view the packages we offer.
+- Have the ability to make a booking.
+- Have customers access us easily and effortlessly.
+
+#### First Time Visitors' Goals
+
+- Finding out what is on offer.
+- Viewing pictures or videos of previous work.
+- Being able to book or make contact.
+- Navigating the website with ease.
+
+#### Returning Visitors' Goals
+
+- Effortlessly making a booking.
+
+## Design
+
+### Colour Scheme
+
+![Milestone01 Colour Palette](docs/Colour-Scheme.png)
+
+I opted for a clean modern colour palette where each colour complements one another. The palette was created using the [Coolors](https://coolors.co/) website.
+
+### Typography
+
+Google Fonts was used for the following fonts:
+
+- **Roboto** is used across the site for all text. It is a sans-serif font.
+
+### Imagery
+
+All images on the webpage were taken from Unsplash.com. I have credited these in the [Credits](#credits) section.
+
+### Wireframes
+
+- [Mobile](docs/wireframe.jpg)
+- [Desktop](docs/wireframe1.jpg)
+
+### Home Page
+
+- [Screenshot of Home page](docs/Screenshot2024-06-22-061618.png)
+
+## Features
+
+The website consists of three pages and a modal: Home, Packages, Gallery, and a Booking modal.
+
+All three pages share the following elements:
+- A responsive navigation bar at the top of the page allows the user to easily explore the website. On smaller devices, the navigation links are condensed into a burger toggler button to prevent the bar from looking cluttered.
+- A footer comprising social media links to Facebook, Instagram, Twitter, and YouTube, along with the company's address.
+
+### Home Page
+
+Learn about our salon, our mission, and our commitment to excellence.
+
+- Four images of styled dreadlocks in the header.
+- A heading and paragraph explaining who I-Three are.
+
+### Packages
+
+Explore our service packages, pricing, and special offers.
+
+- Three packages are available: Starter, Maintenance, and Styling Perfection.
+- Text explains the packages.
+- A "Book Now" button under the packages directs users to the booking modal.
+
+### Gallery
+
+View stunning photos of our clients’ dreadlocks transformations.
+
+- A grid gallery showcasing I-Three's completed work, providing users confidence in the company’s ability.
+
+![An African queen with Pride](assets/img/African_Pride.jpg)
+![A woman with thin grey locks](assets/img/ladylocks.JPG)
+![A clean-shaven man with locks](assets/img/clean_shave.jpg)
+![A lady with long colored locks](assets/img/colored_locks.jpg)
+
+I included a video of retwisting dreadlocks from YouTube:  
+<iframe width="338" height="602" src="https://www.youtube.com/embed/hnn5DJqowX4" title="Retwist Tips for starter locs" allowfullscreen></iframe>
+
+## Technology Used
+
+### Languages Used
+
+- HTML
+- CSS
+- JavaScript
+
+### Frameworks, Libraries, and Programs Used
+
+- Bootstrap
+- jQuery
+- Google Fonts
+- Font Awesome
+- Coolors
+
+## Deployment and Local Development
+
+### Deployment
+
+Instructions for deployment.
+
+### Local Development
+
+#### How to Fork
+
+Steps for forking the repository.
+
+#### How to Clone
+
+Steps for cloning the repository.
+
+## Testing
+
+### W3C Validator
+
+Details about testing with the W3C Validator.
+
+### Solved Bugs
+
+Information on solved bugs.
+
+### Wave Testing
+
+Results from Wave testing.
+
+### Full Testing
+
+Description of full testing.
+
+## Credits
+
+### Code Used
+
+Acknowledgment of external code used.
+
+### Media
+
+Credits for media used.
+
+### Acknowledgments
+
+Acknowledgment of support and contributors.
+
 
 ## CONTENTS
 
