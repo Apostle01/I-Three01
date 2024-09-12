@@ -11,8 +11,8 @@ This is a website of a Dreadlocks saloon called I-Three.
 
  [View Milestone01 on Github Pages](https://apostle01.github.io/Milestone01/)
 
- ![Github last commit(by committer)](html file for clarity on what we offer
-)
+ ![Github last commit(by committer)](html file for clarity on what we offer)
+
 ![Github last commit(by committer)](updated README.md file with previous repository to show other commits, current repository and website url)
 
 ## CONTENTS
