@@ -151,25 +151,7 @@ I included a video of retwisting dreadlocks from YouTube:
 - Font Awesome
 - Coolors
           ---
-     
-    ### Imagery
-
-    All images on the webpage were taken from unsplash.com. I have credited these in the [credits] section.
-
-    ### Wireframes
-    -[Mobile](docs/wireframe.jpg)
-    -[Desktop](docs/wireframe1.jpg)
-
-    ### Home Page
-    -[Screenshot of Home page](docs/Screenshot2024-06-22-061618.png)
-
-    ## Features
-    The website consists of three pages and a modal. Home, Packages, Gallery and Booking modal.
-
-    All three pages have the following elements in common:
-    A responsive navigation bar at the top of the page allows the user to easily explore the website. On the right-hand side of the navigation bar are links to the packages page, gallery page and booking modal. To enable a positive user experience the navigation links are condensed into a burger toggler button on smaller devices. This was done to prevent the navigation bar from looking cluttered.
-    A footer that comprises of social media links to Facebook, Instagram, Twitter and Youtube. The footer also contains the address of the company.
-
+  
 ### Home Page: Learn about our salon, our mission, and our commitment to excellence.
     Four different images of clean styled dreadlocks in the header.
     A heading and paragraph explaining who I-Three are.
