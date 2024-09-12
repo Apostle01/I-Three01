@@ -1,12 +1,10 @@
 https://github.com/Apostle01/I-Three.git: This is a previous work that has a lot of commits but had to create a new repository (Milestone01) due to technical issues.
 https://github.com/Apostle01/Milestone01.git
 https://apostle01.github.io/Milestone01/
-Milestone01
+
 My Milestone 1 Project.
 This is a website for a Dreadlocks salon called I-Three.
 We specialize in dreadlocks and natural hair care. Visitors have the opportunity to book appointments online.
-
-View Milestone01 on GitHub Pages
 
  ![Milestone01. Screenshots of website](assets/img/am-i-responsive.png)
 
@@ -102,7 +100,11 @@ All images on the webpage were taken from Unsplash.com. I have credited these in
 ### Home Page
 
 - [Screenshot of Home page](docs/Screenshot2024-06-22-061618.png)
+Learn about our salon, our mission, and our commitment to excellence.
 
+- Four images of styled dreadlocks in the header.
+- A heading and paragraph explaining who I-Three are.
+- 
 ## Features
 
 The website consists of three pages and a modal: Home, Packages, Gallery, and a Booking modal.
@@ -110,13 +112,6 @@ The website consists of three pages and a modal: Home, Packages, Gallery, and a 
 All three pages share the following elements:
 - A responsive navigation bar at the top of the page allows the user to easily explore the website. On smaller devices, the navigation links are condensed into a burger toggler button to prevent the bar from looking cluttered.
 - A footer comprising social media links to Facebook, Instagram, Twitter, and YouTube, along with the company's address.
-
-### Home Page
-
-Learn about our salon, our mission, and our commitment to excellence.
-
-- Four images of styled dreadlocks in the header.
-- A heading and paragraph explaining who I-Three are.
 
 ### Packages
 
@@ -155,134 +150,8 @@ I included a video of retwisting dreadlocks from YouTube:
 - Google Fonts
 - Font Awesome
 - Coolors
-
-## Deployment and Local Development
-
-### Deployment
-
-Instructions for deployment.
-
-### Local Development
-
-#### How to Fork
-
-Steps for forking the repository.
-
-#### How to Clone
-
-Steps for cloning the repository.
-
-## Testing
-
-### W3C Validator
-
-Details about testing with the W3C Validator.
-
-### Solved Bugs
-
-Information on solved bugs.
-
-### Wave Testing
-
-Results from Wave testing.
-
-### Full Testing
-
-Description of full testing.
-
-## Credits
-
-### Code Used
-
-Acknowledgment of external code used.
-
-### Media
-
-Credits for media used.
-
-### Acknowledgments
-
-Acknowledgment of support and contributors.
-
-
-## CONTENTS
-
--[User Experience (UX)](#User-Experience-UX)
-
-    -[User Stories](#User Stories)
-
--[Design](#Design)
-
-    -[Colour Scheme](#Colour-Scheme)
-    -[Typography](#Typography)
-    -[Imagery](#Imagery)
-    -[Wireframes](#Wireframes)
-    -[Features](#Features)
-    -[Accessibility](#Accessibility)
-
--[Technology Used](#Technologies-Used)
-
-    -[Languages Used](#Languages-Used)
-    -[Frameworks,Libraries & Programs Used](#Frameworks,-Libraries-and-Programs-Used)
-
--[Deployment and Local Development](#Deployment-and-Local-Development)
-
-    -[Deployment](#Deployment)
-    -[Local Development](#Local-Development)
-        -[How to Fork](#How-to-Fork)
-        -[How to Clone](#How-to-Clone)
-
-    -[Testing](#Testing)
-        -[W3C Validator](#W3C-Validator)
-        -[Solved Bugs](#Solved-Bugs)
-        -[Wave Testing](#Wave-Testing)
-        -[Full Testing](#Full-Testing)
-    -[Credits](#Credits)
-        -[Code Used](#Code-Used)
-        -[Media](#Media)
-        -[Acknowledgments](#Acknowledgments)
-
-        ---
-
-    ## User Experience (UX)
-
-    Milestone01 is a dreadlock saloon website with the aim of enhancing beauty with dreadlocks styling.
-
-    ### User Stories
-
-    #### Client goals
-
-    -To be able to view the site on different divices
-    -To make it easier for potential customers to view the packages we offer.
-    -Have the ability to make a booking
-    -Have customers access us easily and effortless.
-
-    #### First Time Visitors Goals
-        -Finding out what is on offer.
-        -Would want to see pictures or video of previous work.
-        -I want to be able to book or make contact.
-        -I want to be able to navigate through the website with ease.
-
-    #### Returning Visitors Goals
-
-        -I want to be able to make a booking effortlessly.
-    
-    ## Design
-
-    ### Colour Scheme
-
-    ![Milestone01 Colour Pallete](docs/Colour-Scheme
-    .png)
-
-    I opted for a clean modern colour pallete where each colour compliments one another. The colour pallete was created using the [coolers](https://coolors.co/) website.
-
-    ### Typography
-
-    Google Fonts was used for the following fonts:
-
-    -Roboto is used across the site for all text on the site. It is a sans-serif font.
-
-
+          ---
+     
     ### Imagery
 
     All images on the webpage were taken from unsplash.com. I have credited these in the [credits] section.
@@ -294,7 +163,7 @@ Acknowledgment of support and contributors.
     ### Home Page
     -[Screenshot of Home page](docs/Screenshot2024-06-22-061618.png)
 
-    ##Features
+    ## Features
     The website consists of three pages and a modal. Home, Packages, Gallery and Booking modal.
 
     All three pages have the following elements in common:
@@ -337,7 +206,7 @@ I included a video of retwisting dreadlocks taken from you-tube.
 Github Pages was used to deploy the live website. The instructions to achieve this are below:
 
 1. Log in (or sign up) to Github.
-2. Find the repository for this project, Dhaddas-Detailing
+2. Find the repository for this project, I-Three Dreadlocks Saloon
 3. Click on the Settings link.
 4. Click on the Pages link in the left-hand side navigation bar.
 5. In the Source section, choose main from the drop-down select branch menu. Select Root from the drop-down select folder menu.
