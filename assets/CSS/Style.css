@@ -8,18 +8,12 @@
 body {
     font-family: Arial, sans-serif;
     font-size: 16px;
-}
-
-/* 404 Page Styles */
-body {
-    font-family: 'Arial', sans-serif;
     background-color: #f8f9fa;
     color: #212529;
-    margin: 0;
-    padding: 0;
     height: 100vh;
 }
 
+/* 404 Page Styles */
 .error-container {
     text-align: center;
 }
@@ -43,14 +37,10 @@ body {
     font-weight: bold;
 }
 
-h1, 
-h2,
-h3,
-h4,
-h5,
-h6 {
+/* Typography styles */
+h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
-    font-family: Arial, sans-serif;   
+    font-family: Arial, sans-serif;
 }
 
 h1 {
@@ -110,11 +100,11 @@ header img {
     border-radius: 10px;
 }
 
+/* iframe styles */
 iframe {
-    
-        border: 1px solid black;
-        width: 100%; /* takes precedence over the width set with the HTML width attribute */
-        height: 100%;
+    border: 1px solid black;
+    width: 100%;
+    height: 100%;
     clear: both;
 }
 
@@ -137,14 +127,13 @@ main section h2 {
 
 main section p {
     margin-bottom: 10px;
-    /* color: blue; */
 }
 
 .green-text {
     color: green;
 }
 
-/* Form style */
+/* Form styles */
 form {
     width: 300px;
     margin: 0 auto;
@@ -154,11 +143,7 @@ form {
     border-radius: 5px;
 }
 
-.block {
-    margin-left: auto;
-    margin-right: auto;
-}
-
+/* Packages and Gallery */
 .package {
     border: 1px solid #ddd;
     padding: 15px;
@@ -176,9 +161,12 @@ form {
     color: #555;
 }
 
-/* Gallery styles */
 .gallery img {
     height: 250px;
+}
+
+.gallery img:hover {
+    transform: scale(2);
 }
 
 /* Contact info styles */
@@ -200,17 +188,20 @@ form {
 }
 
 #map {
-    height: 400;
+    height: 400px;
     width: auto;
     align-items: center;
     border: 0;
 }
 
-.README.md i {
-    width: 25ppx;
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
 }
 
-/* Footer styles */
 .social-links {
     color: #fff;
 }
@@ -220,14 +211,6 @@ i {
     width: 50px;
 }
 
-footer {
-    background-color: #333;
-    color: #fff;
-    padding: 20px;
-    text-align: center;
+.README.md i {
+    width: 25px; /* Corrected width */
 }
-
-.gallery img:hover {
-    transform: scale(2);
-}
-
