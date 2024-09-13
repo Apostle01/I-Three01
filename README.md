@@ -109,7 +109,7 @@ The website consists of three pages and a modal: Home, Packages, Gallery, and a 
 
 ### Home Page
 
-- [Screenshot of Home page](docs/webpage.png)
+- [Screenshot of Home page](assets/img/Home-Page.png)
 Learn about our salon, our mission, and our commitment to excellence.
 
 ### Home Page: Learn about our salon, our mission, and our commitment to excellence.
