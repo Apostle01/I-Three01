@@ -1,7 +1,7 @@
 https://github.com/Apostle01/I-Three.git: This is a previous work that has a lot of commits but had to create a new repository (Milestone01) due to technical issues.
 https://apostle01.github.io/I-Three/
-https://github.com/Apostle01/Milestone01.git
-https://apostle01.github.io/Milestone01/
+https://github.com/Apostle01/I-Three01.git
+
 
 My Milestone 1 Project.
 This is a website for a Dreadlocks salon called I-Three.
