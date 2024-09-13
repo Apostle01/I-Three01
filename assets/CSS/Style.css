@@ -144,6 +144,21 @@ main section p {
     color: green;
 }
 
+/* Form style */
+form {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+}
+
+.block {
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .package {
     border: 1px solid #ddd;
     padding: 15px;
@@ -159,22 +174,6 @@ main section p {
 
 .package p {
     color: #555;
-}
-
-
-/* Form styles */
-form {
-    width: 300px;
-    margin: 0 auto;
-    padding: 20px;
-    background-color: #f4f4f4;
-    border: 1px solid #e5e5e5;
-    border-radius: 5px;
-}
-
-.block {
-    margin-left: auto;
-    margin-right: auto;
 }
 
 /* Gallery styles */
