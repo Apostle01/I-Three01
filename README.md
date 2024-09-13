@@ -239,8 +239,9 @@ One issue I was coming across when testing my html page was an error displayed b
 - [style.css CSS](assets/img/CSS-Validator.png)
 
 
--[Jest](assets/img/Jest-test.jpg)
--[Jest Test](assets/img/Jest-testing.png)
+-[Jest](docs/JestFirst_test.png)
+-[Jest](docs/JestSecondtest_jest.png)
+-[Jest](docs/JestThirdtest_jest.png)
 
 ### Wave Testing
 - [Index Page HTML](assets/img/Wavetest.png)
