@@ -65,14 +65,14 @@ Milestone01 is a dreadlock salon website with the aim of enhancing beauty throug
 
 #### First Time Visitors' Goals
 
-- Finding out what is on offer.
-- Viewing pictures or videos of previous work.
-- Being able to book or make contact.
-- Navigating the website with ease.
+-  | Finding out what is on offer.
+-  | Viewing pictures or videos of previous work.
+-  | Being able to book or make contact.
+-  | Navigating the website with ease.
 
 #### Returning Visitors' Goals
 
-- Effortlessly making a booking.
+-  | Effortlessly making a booking.
 
 ## Design
 
@@ -96,32 +96,41 @@ All images on the webpage were taken from Unsplash.com. I have credited these in
 
 - [Mobile](docs/wireframe.jpg)
 - [Desktop](docs/wireframe1.jpg)
-
-### Home Page
-
-- [Screenshot of Home page](docs/Screenshot2024-06-22-061618.png)
-Learn about our salon, our mission, and our commitment to excellence.
-
-- Four images of styled dreadlocks in the header.
-- A heading and paragraph explaining who I-Three are.
-- 
-## Features
+ 
+### Features
 
 The website consists of three pages and a modal: Home, Packages, Gallery, and a Booking modal.
 
-All three pages share the following elements:
+#### All three pages share the following elements:
 - A responsive navigation bar at the top of the page allows the user to easily explore the website. On smaller devices, the navigation links are condensed into a burger toggler button to prevent the bar from looking cluttered.
+ 
 - A footer comprising social media links to Facebook, Instagram, Twitter, and YouTube, along with the company's address.
 
-### Packages
+### Home Page
+
+- [Screenshot of Home page](docs/webpage.png)
+Learn about our salon, our mission, and our commitment to excellence.
+
+### Home Page: Learn about our salon, our mission, and our commitment to excellence.
+ - Four different images of clean styled dreadlocks in the header.
+ - A heading and paragraph explaining who I-Three are.
+ - Four different images of clean styled dreadlocks in the header.
+
+#### Packages Page
 
 Explore our service packages, pricing, and special offers.
 
 - Three packages are available: Starter, Maintenance, and Styling Perfection.
 - Text explains the packages.
 - A "Book Now" button under the packages directs users to the booking modal.
+  <ul>
+<li>Starter</li>
+<li>Maintainance</li>
+<li>Styling Perfection</li>
+<a href="Booking.html">Booking.html</a>
+</ul>
 
-### Gallery
+#### Gallery Page
 
 View stunning photos of our clients’ dreadlocks transformations.
 
@@ -135,51 +144,44 @@ View stunning photos of our clients’ dreadlocks transformations.
 I included a video of retwisting dreadlocks from YouTube:  
 <iframe width="338" height="602" src="https://www.youtube.com/embed/hnn5DJqowX4" title="Retwist Tips for starter locs" allowfullscreen></iframe>
 
+#### Booking Modal
+
+- A modal which is initiated from a Booking button on the nav bar and the packages page.
+- A form within the modal that requires the users input.
+
+### Accessibility
+
+I've taken care when coding to make the website user-friendly. This was done by:
+
+- Using semantic HTML.
+- Using descriptive alt attributes for images throughout the site.
+- Selecting a sans-serif font which is suitable for users with dyslexia.
+- Ensuring that the site has adequate amount of colour contrast.
+  
 ## Technology Used
 
 ### Languages Used
 
 - HTML
 - CSS
-- JavaScript
 
 ### Frameworks, Libraries, and Programs Used
 
-- Bootstrap
-- jQuery
-- Google Fonts
-- Font Awesome
-- Coolors
+[Visual Studio Code](https://code.visualstudio.com/) IDE was used to create the website.
+
+[Git](https://git-scm.com/) - For version control.
+
+[Github](https://github.com/) - To save and store the files for the website.
+
+[Bootstrap Version 4.2.1](https://getbootstrap.com/docs/4.2/getting-started/introduction/) - The framework for the website. Code for navigation bar, model and various other classes.
+[Am I Responsive](https://ui.dev/amiresponsive) To show the website across a range of devices.
+
+[Google Fonts](https://fonts.google.com/) - To import the fonts used on the website.
+
+Google Dev Tools - To troubleshoot and test features, and solve issues with responsiveness and styling.
+
+[Font Awesome](https://fontawesome.com/start) For social links.
           ---
-  
-### Home Page: Learn about our salon, our mission, and our commitment to excellence.
-    Four different images of clean styled dreadlocks in the header.
-    A heading and paragraph explaining who I-Three are.
-    Four different images of clean styled dreadlocks in the header.
-
-### Packages: Explore our service packages, pricing, and special offers.
-    The three packages which are on offer to the user.
-    Text explaining the packages.
-    A book now button underneath the packages to allow the user easy access to the bookings modal.
-<ul>
-<li>Starter</li>
-<li>Maintainance</li>
-<li>Styling Perfection</li>
-<a href="Booking.html">Booking.html</a>
-</ul>
-
-### Gallery: View stunning photos of our clients’ dreadlocks transformations.
-Text showing users what to expect from I-Three Dreadlocks Salon on the gallery page.
-A grid gallery showcasing I-Three's completed work. This will give confidence to the user in the companies ability.
-
-
-<img src="assets/img/African_Pride.jpg" alt="An African queen with Pride">
-<img src="assets/img/ladylocks.JPG" alt="A woman with thin grey locks">
-<img src="assets/img/clean_shave.jpg" alt="A clean-shaven gentle locks">
-<img src="assets/img/colored_locks.jpg" alt="A lady with long colored locks">
-
-I included a video of retwisting dreadlocks taken from you-tube. 
-<iframe width="338" height="602" src="https://www.youtube.com/embed/hnn5DJqowX4" title="Retwist Tips for starter locs"  allowfullscreen></iframe>
 
 ## Deployment and Local Development
 
