@@ -7,9 +7,9 @@ My Milestone 1 Project.
 This is a website for a Dreadlocks salon called I-Three.
 We specialize in dreadlocks and natural hair care. Visitors have the opportunity to book appointments online.
 
- ![Milestone01. Screenshots of website](assets/img/am-i-responsive.png)
+ ![I-Three01. Screenshots of website](assets/img/am-i-responsive.png)
 
- [View Milestone01 on Github Pages](https://apostle01.github.io/Milestone01/)
+ [View I-Three01 on Github Pages](https://apostle01.github.io/I-Three01/)
 
  ![Github last commit(by committer)](html file for clarity on what we offer)
 
@@ -79,7 +79,7 @@ Milestone01 is a dreadlock salon website with the aim of enhancing beauty throug
 
 ### Colour Scheme
 
-![Milestone01 Colour Palette](docs/Colour-Scheme.png)
+![I-Three01 Colour Palette](docs/Colour-Scheme.png)
 
 I opted for a clean modern colour palette where each colour complements one another. The palette was created using the [Coolors](https://coolors.co/) website.
 
