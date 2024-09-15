@@ -77,20 +77,37 @@ header p {
     color: #555;
 }
 
+/* Nav styles */
 header nav {
     margin-top: 10px;
 }
 
 header nav ul {
     list-style: none;
-    display: flex;
-    justify-content: space-around;
+    display: flex; /* Horizontal alignment */
+    justify-content: center; /* Aligns items to the center */
+    padding: 0;
+}
+
+header nav ul li {
+    margin-right: 20px; /* Adds space between the items */
+}
+
+header nav ul li:last-child {
+    margin-right: 0; /* Removes margin from the last item */
 }
 
 header nav ul li a {
     font-size: 18px;
     padding: 10px;
     color: green;
+    text-decoration: none;
+}
+
+header nav ul li a:hover {
+    color: black;
+    text-decoration: underline;
+    background-color: green;
 }
 
 header img {
@@ -161,20 +178,31 @@ form {
     color: #555;
 }
 
+/* Gallery styles */
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
 .gallery img {
     height: 250px;
+    margin-bottom: 20px;
+    transition: transform 0.3s ease;
 }
 
 .gallery img:hover {
-    transform: scale(2);
+    transform: scale(1.1); /* Adjusted hover scaling for better experience */
 }
 
 /* Contact info styles */
 .contact-info {
+    display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    width: 600px;
+    max-width: 600px;
+    margin: 0 auto;
 }
 
 .contact-info h4 {
@@ -202,16 +230,29 @@ footer {
     text-align: center;
 }
 
-.social-links {
+footer .social-links {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 10px;
+}
+
+footer .social-links a {
     color: #fff;
+    font-size: 24px;
+    transition: color 0.3s ease;
 }
 
+footer .social-links a:hover {
+    color: #007bff;
+}
+
+/* Icon styles */
 i {
-    height: 10px;
-    width: 50px;
+    font-size: 24px;
 }
 
+/* README.md icon fixes */
 .README.md i {
     width: 25px; /* Corrected width */
 }
-
